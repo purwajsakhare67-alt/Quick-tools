@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="google-site-verification" content="googleea0850efea49b339" />
+  <meta name="google-site-verification" content="ea0850efea49b339" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- =========================================================
+       1. GLOBAL SEO TITLES & TIER-1 TARGETED META ARCHITECTURE
+       ========================================================= -->
+  <title>QuickFree Tools ✨ — 35+ Free Financial, Developer & Everyday Productivity Engines</title>
+  <meta name="description" content="Access 35+ free, high-precision financial calculators, developer utilities, unit converters, and productivity tools. Multi-currency (USD, EUR, GBP, CAD, AUD, INR), zero paywalls, no login required, 100% private in-browser compute.">
+  <meta name="keywords" content="financial calculators online free, SIP calculator USD GBP EUR INR, mortgage loan calculator USA UK Canada Australia, JSON validator formatter, regex tester online, SHA256 hash generator, entropy password generator, GST VAT tax calculator, BMI calculator metric imperial, client-side web tools">
+  <meta name="author" content="QuickFree Tools Global Engineering">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <link rel="canonical" href="https://quickfreetools.com/">
+
+  <!-- Geo & Audience Targeting (USA, UK, Canada, Australia, Global) -->
+  <meta name="geo.region" content="US;GB;CA;AU">
+  <meta name="geo.position" content="37.0902;-95.7129">
+  <meta name="ICBM" content="37.0902, -95.7129">
+  <meta name="rating" content="General">
+  <meta name="revisit-after" content="3 days">
+  <meta name="theme-color" content="#8b5cf6">
+
+  <!-- Open Graph / Facebook Meta Tags -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="QuickFree Tools">
+  <meta property="og:url" content="https://quickfreetools.com/">
+  <meta property="og:title" content="QuickFree Tools ✨ — 35+ Free Financial, Developer & Productivity Engines">
+  <meta property="og:description" content="Instant high-precision financial, developer, and productivity micro-engines. 100% private, client-side compute with multi-currency support. No subscriptions, zero paywalls.">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&h=630&q=85">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="QuickFree Tools - Free Financial and Developer Engines">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="en_GB">
+  <meta property="og:locale:alternate" content="en_CA">
+  <meta property="og:locale:alternate" content="en_AU">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@QuickFreeTools">
+  <meta name="twitter:creator" content="@QuickFreeTools">
+  <meta name="twitter:title" content="QuickFree Tools ✨ — 35+ Free Financial, Developer & Productivity Engines">
+  <meta name="twitter:description" content="Instant high-precision financial, developer, and productivity micro-engines. 100% private, client-side compute with multi-currency support.">
+  <meta name="twitter:image" content="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&h=630&q=85">
+
+  <!-- Web Fonts & Preconnect -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- =========================================================
+       2. STRUCTURED JSON-LD SCHEMA FOR GOOGLE AI OVERVIEWS & RICH RESULTS
+       ========================================================= -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://quickfreetools.com/#organization",
+        "name": "QuickFree Tools",
+        "url": "https://quickfreetools.com/",
+        "logo": "https://quickfreetools.com/icon.svg",
+        "description": "Provider of 35+ zero-cost, private client-side computational micro-tools for financial analysis, software development, math, and everyday productivity."
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://quickfreetools.com/#website",
+        "url": "https://quickfreetools.com/",
+        "name": "QuickFree Tools",
+        "publisher": { "@id": "https://quickfreetools.com/#organization" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://quickfreetools.com/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://quickfreetools.com/#webpage",
+        "url": "https://quickfreetools.com/",
+        "name": "QuickFree Tools: 35+ Free High-Precision Digital Engines",
+        "description": "Directory of 35 free micro-engines for finance, coding, conversion, and daily health metrics.",
+        "isPartOf": { "@id": "https://quickfreetools.com/#website" }
+      }
+    ]
+  }
+  </script>
+  
+  <style>
+    :root {
+      --bg-primary: #f8fafc;
+      --bg-surface: rgba(255, 255, 255, 0.88);
+      --bg-card: rgba(255, 255, 255, 0.96);
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --text-sub: #334155;
+      --border-color: #e2e8f0;
+      --border-highlight: rgba(139, 92, 246, 0.35);
+      --glass-blur: blur(18px);
+      --nav-bg: rgba(255, 255, 255, 0.85);
+      --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+      --shadow-lg: 0 20px 35px -10px rgba(99, 102, 241, 0.12);
+      --shadow-glow: 0 0 25px rgba(217, 70, 239, 0.25);
+      
+      --grad-neon-1: linear-gradient(135deg, #06b6d4 0%, #8b5cf6 50%, #ec4899 100%);
+      --ad-bg: rgba(241, 245, 249, 0.75);
+      --ad-border: #94a3b8;
+      --slider-accent: #8b5cf6;
+      --slider-glow: 0 0 16px rgba(139, 92, 246, 0.45);
+      --slider-track: #e2e8f0;
+      --ripple-color: rgba(139, 92, 246, 0.28);
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #02020a;
+      --bg-surface: rgba(13, 17, 28, 0.88);
+      --bg-card: rgba(18, 22, 38, 0.94);
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --text-sub: #cbd5e1;
+      --border-color: rgba(255, 255, 255, 0.1);
+      --border-highlight: rgba(168, 85, 247, 0.4);
+      --nav-bg: rgba(2, 2, 10, 0.85);
+      --shadow-sm: 0 4px 10px rgba(0, 0, 0, 0.4);
+      --shadow-lg: 0 20px 40px -10px rgba(0, 0, 0, 0.7);
+      --shadow-glow: 0 0 30px rgba(168, 85, 247, 0.35);
+      --ad-bg: rgba(18, 22, 38, 0.6);
+      --ad-border: #475569;
+      --slider-accent: #c084fc;
+      --slider-glow: 0 0 20px rgba(192, 132, 252, 0.6);
+      --slider-track: #1e293b;
+      --ripple-color: rgba(216, 180, 254, 0.3);
+    }
+
+    [data-theme="reading"] {
+      --bg-primary: #fbf0d9;
+      --bg-surface: rgba(244, 236, 216, 0.88);
+      --bg-card: rgba(248, 241, 227, 0.96);
+      --text-main: #5b4636;
+      --text-muted: #846d5b;
+      --text-sub: #6c5443;
+      --border-color: rgba(180, 140, 100, 0.25);
+      --border-highlight: rgba(190, 120, 60, 0.45);
+      --nav-bg: rgba(248, 241, 227, 0.92);
+      --shadow-sm: 0 4px 10px rgba(91, 70, 54, 0.08);
+      --shadow-lg: 0 20px 35px -10px rgba(91, 70, 54, 0.15);
+      --shadow-glow: 0 0 25px rgba(217, 119, 6, 0.25);
+      --ad-bg: rgba(240, 230, 210, 0.75);
+      --ad-border: #c4b5a0;
+      --slider-accent: #d97706;
+      --slider-glow: 0 0 16px rgba(217, 119, 6, 0.4);
+      --slider-track: #e6d7bf;
+      --ripple-color: rgba(217, 119, 6, 0.25);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--bg-primary);
+      color: var(--text-main);
+      line-height: 1.6;
+      min-height: 100vh;
+      overflow-x: hidden;
+      padding-bottom: 80px;
+      transition: background 0.3s cubic-bezier(0.4, 0, 0.2, 1), color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    h1, h2, h3, h4 { font-family: 'Outfit', sans-serif; }
+
+    .header-nav {
+      position: sticky; top: 0; z-index: 50;
+      background: var(--nav-bg);
+      backdrop-filter: var(--glass-blur);
+      border-bottom: 1px solid var(--border-color);
+      box-shadow: var(--shadow-sm);
+    }
+
+    .nav-container {
+      max-width: 1280px; margin: 0 auto;
+      padding: 0.75rem 1.5rem; display: flex;
+      align-items: center; justify-content: space-between; gap: 1.5rem;
+    }
+
+    .nav-left-group { display: flex; align-items: center; gap: 1rem; }
+    .brand-logo { display: flex; align-items: center; gap: 0.75rem; text-decoration: none; color: inherit; }
+    .brand-icon-box {
+      width: 40px; height: 40px; border-radius: 12px;
+      background: var(--grad-neon-1); display: flex;
+      align-items: center; justify-content: center; color: white; font-weight: 900;
+    }
+    .brand-title { font-size: 1.25rem; font-weight: 900; background: var(--grad-neon-1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    .brand-subtitle { font-size: 0.7rem; color: var(--text-muted); font-weight: 700; text-transform: uppercase; }
+
+    .theme-toggle-btn {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      padding: 0.5rem 1rem; border-radius: 14px; background: var(--bg-surface);
+      border: 1px solid var(--border-color); color: var(--text-main); font-size: 0.85rem; font-weight: 700; cursor: pointer;
+    }
+
+    .hero-section { max-width: 960px; margin: 3.5rem auto 2.5rem; padding: 0 1.5rem; text-align: center; }
+    .hero-badge { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.35rem 1rem; border-radius: 9999px; background: rgba(139, 92, 246, 0.12); border: 1px solid var(--border-highlight); color: var(--slider-accent); font-size: 0.8rem; font-weight: 700; margin-bottom: 1.25rem; }
+    .hero-heading { font-size: clamp(2.2rem, 5vw, 3.4rem); font-weight: 900; line-height: 1.15; margin-bottom: 1.25rem; }
+    .hero-heading span { background: var(--grad-neon-1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    .hero-desc { font-size: 1.1rem; color: var(--text-sub); max-width: 680px; margin: 0 auto 2rem; }
+
+    .search-wrapper { max-width: 640px; margin: 0 auto; position: relative; }
+    .search-input {
+      width: 100%; padding: 1rem 1.25rem 1rem 3.2rem; border-radius: 16px;
+      background: var(--bg-surface); backdrop-filter: var(--glass-blur);
+      border: 1.5px solid var(--border-color); color: var(--text-main); font-size: 1rem; outline: none; box-shadow: var(--shadow-lg);
+    }
+    .search-icon { position: absolute; left: 1.1rem; top: 50%; transform: translateY(-50%); color: var(--text-muted); }
+
+    .category-nav-bar { max-width: 1280px; margin: 2rem auto 2.5rem; padding: 0 1.5rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; }
+    .cat-tab { padding: 0.55rem 1.1rem; border-radius: 12px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-sub); font-size: 0.85rem; font-weight: 600; cursor: pointer; }
+    .cat-tab.active { background: var(--grad-neon-1); color: #ffffff; border-color: transparent; box-shadow: 0 4px 15px rgba(139, 92, 246, 0.35); transform: scale(1.03); }
+
+    .tools-container { max-width: 1280px; margin: 0 auto; padding: 0 1.5rem 4rem; }
+    .tools-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; }
+    .tool-card {
+      position: relative; background: var(--bg-card); backdrop-filter: var(--glass-blur);
+      border: 1px solid var(--border-color); border-radius: 20px; padding: 1.5rem;
+      display: flex; flex-direction: column; justify-content: space-between; cursor: pointer; box-shadow: var(--shadow-sm);
+    }
+    .tool-card:hover { transform: translateY(-4px); border-color: var(--border-highlight); box-shadow: var(--shadow-lg); }
+
+    .tool-card-icon { width: 48px; height: 48px; border-radius: 14px; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; margin-bottom: 1rem; background: rgba(139, 92, 246, 0.1); color: var(--slider-accent); }
+    .tool-card-title { font-size: 1.15rem; font-weight: 800; margin-bottom: 0.4rem; }
+    .tool-card-desc { font-size: 0.85rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 1.25rem; flex-grow: 1; }
+    .tool-card-footer { display: flex; align-items: center; justify-content: space-between; padding-top: 1rem; border-top: 1px solid var(--border-color); }
+    .launch-btn { font-size: 0.8rem; font-weight: 700; color: var(--slider-accent); }
+
+    .modal-overlay {
+      position: fixed; inset: 0; z-index: 1000; background: rgba(0, 0, 0, 0.65);
+      backdrop-filter: blur(10px); display: flex; align-items: center; justify-content: center;
+      padding: 1.5rem; opacity: 0; pointer-events: none; transition: opacity 0.3s ease;
+    }
+    .modal-overlay.active { opacity: 1; pointer-events: auto; }
+    .modal-card {
+      width: 100%; max-width: 760px; max-height: 90vh; overflow-y: auto;
+      background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 24px; padding: 2rem; box-shadow: var(--shadow-lg);
+    }
+    .modal-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border-color); }
+    .modal-close-btn { background: none; border: none; font-size: 1.5rem; color: var(--text-muted); cursor: pointer; }
+    .form-group { margin-bottom: 1.25rem; }
+    .form-label { display: block; font-size: 0.85rem; font-weight: 700; margin-bottom: 0.5rem; }
+    .form-input { width: 100%; padding: 0.75rem 1rem; border-radius: 12px; border: 1px solid var(--border-color); background: var(--bg-surface); color: var(--text-main); }
+    .calc-results-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 1.5rem 0; }
+    .calc-card { padding: 1.1rem; border-radius: 16px; background: var(--bg-surface); border: 1px solid var(--border-color); text-align: center; }
+    .calc-val { font-size: 1.35rem; font-weight: 900; margin-top: 0.25rem; font-family: 'Outfit', sans-serif; }
+    footer { border-top: 1px solid var(--border-color); background: var(--nav-bg); padding: 3rem 1.5rem 5rem; text-align: center; color: var(--text-muted); font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <nav class="header-nav" id="main-nav">
+    <div class="nav-container">
+      <div class="nav-left-group">
+        <a href="#home" class="brand-logo">
+          <div class="brand-icon-box">⚡</div>
+          <div>
+            <div class="brand-title">QuickFree Tools ✨</div>
+            <div class="brand-subtitle">100% Free • Zero Subscriptions</div>
+          </div>
+        </a>
+      </div>
+      <div>
+        <button id="themeToggle" class="theme-toggle-btn">
+          <span id="themeIcon">☀️</span>
+          <span id="themeLabel">Light Mode</span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero-section" id="home">
+    <div class="hero-badge">✨ 100% Free Forever • Zero Paywalls • Private</div>
+    <h1 class="hero-heading">Instant Engines for <span>Every Daily Task</span></h1>
+    <p class="hero-desc">Over 35 high-precision calculators, formatters, and utilities running directly inside your browser. No sign-up, zero subscriptions, multi-currency support.</p>
+    
+    <div class="search-wrapper">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="toolSearch" class="search-input" placeholder="Search 35+ tools (e.g. SIP, Mortgage, GST, JSON, Password, BMI)..." autocomplete="off" />
+      <div class="search-status-bar" id="searchStatus">Showing all 35 free micro-engines</div>
+    </div>
+  </header>
+
+  <div class="category-nav-bar" id="categoryNav">
+    <button class="cat-tab active" data-cat="financial">💰 Finance (12)</button>
+    <button class="cat-tab" data-cat="tech">💻 Developer & Tech (12)</button>
+    <button class="cat-tab" data-cat="productivity">⚡ Productivity (11)</button>
+  </div>
+
+  <main class="tools-container" id="tools">
+    <div class="tools-grid" id="toolsGrid"></div>
+  </main>
+
+  <div class="modal-overlay" id="toolModal">
+    <div class="modal-card" id="modalCardBody"></div>
+  </div>
+
+  <footer>
+    <p>⚡ <strong>QuickFree Tools</strong> — Built with pure client-side vanilla JavaScript & CSS.</p>
+    <p style="margin-top:0.5rem; opacity:0.75;">Zero telemetry • 100% Private in-browser compute • Global Tier-1 Standard</p>
+  </footer>
+
+  <script>
+    const TOOLS = [
+      { id: 'sip', slug: 'tool-sip', name: 'SIP Investment Calculator', cat: 'financial', desc: 'Forecast mutual fund wealth, compound returns, inflation adjustments, and milestone targets.', icon: '📈', keywords: 'mutual fund systematic investment plan compounding wealth growth stocks' },
+      { id: 'lumpsum', slug: 'tool-lumpsum', name: 'Lump Sum Calculator', cat: 'financial', desc: 'Compound interest returns on one-time capital investments with multi-year growth curves.', icon: '💰', keywords: 'one time investment compound interest returns capital portfolio' },
+      { id: 'mortgage', slug: 'tool-mortgage', name: 'Loan EMI & Mortgage Calc', cat: 'financial', desc: 'Accurate amortization schedule, principal vs interest splits, and prepayment models.', icon: '🏠', keywords: 'home loan mortgage emi bank installment amortization debt interest' },
+      { id: 'gst', slug: 'tool-gst', name: 'GST / VAT Tax Engine', cat: 'financial', desc: 'Calculate reverse and forward GST/VAT tax breakdowns in real-time.', icon: '🧾', keywords: 'value added tax goods services sales tax invoice reverse vat' },
+      { id: 'cagr', slug: 'tool-cagr', name: 'CAGR Growth Engine', cat: 'financial', desc: 'Calculate compound annual growth rates across multi-year asset portfolios.', icon: '📊', keywords: 'compound annual growth rate stock market portfolio returns annualized' },
+      { id: 'retirement', slug: 'tool-retirement', name: 'Retirement Corpus Planner', cat: 'financial', desc: 'Estimate post-retirement nest egg requirements with inflation adjustment.', icon: '🏖️', keywords: 'pension 401k superannuation fire movement nest egg retirement freedom' },
+      { id: 'tip', slug: 'tool-tip', name: 'Smart Bill & Tip Splitter', cat: 'financial', desc: 'Split restaurant bills with custom gratuity percentages among friends.', icon: '🍽️', keywords: 'restaurant bill split tip gratuity dining payment share' },
+      { id: 'fd', slug: 'tool-fd', name: 'Fixed Deposit (FD) Calculator', cat: 'financial', desc: 'Quarterly and monthly compounded term deposit maturity calculator.', icon: '🏦', keywords: 'fixed deposit term deposit bank interest maturity compound' },
+      { id: 'rd', slug: 'tool-rd', name: 'Recurring Deposit (RD) Calc', cat: 'financial', desc: 'Monthly savings recurring deposit with interest rate yields.', icon: '💳', keywords: 'recurring deposit monthly savings bank post office returns' },
+      { id: 'inflation', slug: 'tool-inflation', name: 'Global Inflation Forecaster', cat: 'financial', desc: 'Measure future purchasing power depreciation and cost of living spikes.', icon: '📉', keywords: 'inflation purchasing power future money value cost of living currency' },
+      { id: 'ppf', slug: 'tool-ppf', name: 'Public Provident Fund (PPF)', cat: 'financial', desc: 'Tax-exempt long-term 15-year statutory compounding wealth planner.', icon: '🛡️', keywords: 'ppf public provident fund tax free government bond savings' },
+      { id: 'sala
